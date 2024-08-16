@@ -1,7 +1,9 @@
-Objective
+Objective:
+
 The primary objective of this project is to develop a robust, predictive financial model utilizing Long Short-Term Memory (LSTM) networks to forecast future price movements of Gold (XAUUSD) based on historical data. The model is designed to extract complex patterns from various financial indicators such as moving averages, Bollinger Bands, MACD, and others, providing an advanced tool for traders and financial analysts to make informed decisions. By leveraging LSTM's ability to capture long-term dependencies, this project aims to enhance the accuracy of predictions and reduce the risk associated with trading Gold in volatile markets.
 
-Findings and Report
+Findings and Report:
+
 This project successfully demonstrates the application of deep learning techniques, specifically LSTM networks, in predicting financial time series data. The model was trained on a comprehensive dataset containing historical 15-minute intervals of Gold (XAUUSD) prices, including various technical indicators like Moving Averages (MA), Exponential Moving Averages (EMA), and Bollinger Bands.
 
 Data Processing:
